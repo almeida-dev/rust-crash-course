@@ -1,0 +1,11 @@
+/home/mario-jr/dev/clones/rust-crash-course/guessing_game/target/debug/deps/getrandom-5c357686af20f6ed.rmeta: /home/mario-jr/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/lib.rs /home/mario-jr/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error.rs /home/mario-jr/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util.rs /home/mario-jr/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error_impls.rs /home/mario-jr/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util_libc.rs /home/mario-jr/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/use_file.rs /home/mario-jr/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/linux_android.rs
+
+/home/mario-jr/dev/clones/rust-crash-course/guessing_game/target/debug/deps/getrandom-5c357686af20f6ed.d: /home/mario-jr/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/lib.rs /home/mario-jr/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error.rs /home/mario-jr/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util.rs /home/mario-jr/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error_impls.rs /home/mario-jr/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util_libc.rs /home/mario-jr/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/use_file.rs /home/mario-jr/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/linux_android.rs
+
+/home/mario-jr/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/lib.rs:
+/home/mario-jr/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error.rs:
+/home/mario-jr/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util.rs:
+/home/mario-jr/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error_impls.rs:
+/home/mario-jr/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util_libc.rs:
+/home/mario-jr/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/use_file.rs:
+/home/mario-jr/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/linux_android.rs:
